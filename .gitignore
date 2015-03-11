@@ -6,12 +6,12 @@ tmp
 # Android Studio files
 *.apk
 *.ap_
-VastDroid/.gradle
-VastDroid/local.properties
-VastDroid/.idea/workspace.xml
-VastDroid/.idea/libraries
-VastDroid/.DS_Store
-VastDroid/build
+.gradle
+local.properties
+.idea/workspace.xml
+.idea/libraries
+.DS_Store
+build
 
 
 # ========================= 
