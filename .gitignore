@@ -1,0 +1,49 @@
+# Node/grunt stuff
+node_modules
+*npm-debug.log
+tmp
+
+# Android Studio files
+*.apk
+*.ap_
+VastDroid/.gradle
+VastDroid/local.properties
+VastDroid/.idea/workspace.xml
+VastDroid/.idea/libraries
+VastDroid/.DS_Store
+VastDroid/build
+
+
+# ========================= 
+# Operating System Files
+# =========================
+
+# WINDOWS
+# =========================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must ends with two \r.
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
